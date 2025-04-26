@@ -1,2 +1,1 @@
-This Tic Tac Toe program was developed as a project for the course "Structured Programming" during the first semester at the 
-dept. of Computer Science and Electronic Systems Engineering at International Hellenic University.
+This simple Tic Tac Toe program was developed as part of the course "Structured Programming" during the first semester at International Hellenic University. The program doesn't have a GUI and runs on the command line. The player is able to choose between single player to compete against the computer and multiplayer mode to compete with another player. At the end of each round, the overall score is shown and the user is able to play again or stop the game.
